@@ -16,7 +16,7 @@
     "http": "^0.0.0",
     "immutable": "^4.0.0-rc.12",
     "morgan": "^1.9.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "requirejs": "^2.3.6"
   }
 }
